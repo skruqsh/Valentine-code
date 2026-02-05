@@ -1,0 +1,16 @@
+body{
+    background-color: #aa3737;
+    background-image: linear-gradient(to bottom, #aa3737, #af7575);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    font-family: serif;
+    color: #ffff00;
+    font-size: 55px;
+    text-align: center;
+    border: 10px double #008a09;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
